@@ -1,6 +1,4 @@
-Here’s the updated and professional **README.md** file tailored for the your  GitHub repository (`https://github.com/DeepSeekingWhale/Deepseek_ai_DSw.git`). This version removes any references to you and focuses solely on the client's project.
 
----
 
 # DeepSeek AI Agent for Deep Seeking Whale (DSW)
 
