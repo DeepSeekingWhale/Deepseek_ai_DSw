@@ -7,7 +7,7 @@ This repository contains an AI agent that embodies the **Deep Seeking Whale (DSW
 ---
 
 ## Features
-- **Automated Tweeting**: The agent tweets every 15 minutes, generating content in the Deep Seeking Whale's style.
+- **Automated Tweeting**: The agent tweets between every 15 and 60 minutes, generating content in the Deep Seeking Whale's style.
 - **Responsive to Mentions**: The agent responds to Twitter mentions with thought-provoking and metaphorical replies.
 - **Customizable**: The agent's behavior can be expanded or modified to suit future needs.
 
